@@ -1,0 +1,490 @@
+manufacturer: Generic
+model: LC-96-port Fiber Patch Panel
+slug: generic-lc-96-port-fiber-patch-panel
+u_height: 3
+airflow: passive
+is_powered: false
+front_image: true
+front-ports:
+  - name: Module 1 Port 1
+    type: lc
+    rear_port: Module 1 Port 1
+  - name: Module 1 Port 2
+    type: lc
+    rear_port: Module 1 Port 2
+  - name: Module 1 Port 3
+    type: lc
+    rear_port: Module 1 Port 3
+  - name: Module 1 Port 4
+    type: lc
+    rear_port: Module 1 Port 4
+  - name: Module 1 Port 5
+    type: lc
+    rear_port: Module 1 Port 5
+  - name: Module 1 Port 6
+    type: lc
+    rear_port: Module 1 Port 6
+  - name: Module 1 Port 7
+    type: lc
+    rear_port: Module 1 Port 7
+  - name: Module 1 Port 8
+    type: lc
+    rear_port: Module 1 Port 8
+  - name: Module 2 Port 1
+    type: lc
+    rear_port: Module 2 Port 1
+  - name: Module 2 Port 2
+    type: lc
+    rear_port: Module 2 Port 2
+  - name: Module 2 Port 3
+    type: lc
+    rear_port: Module 2 Port 3
+  - name: Module 2 Port 4
+    type: lc
+    rear_port: Module 2 Port 4
+  - name: Module 2 Port 5
+    type: lc
+    rear_port: Module 2 Port 5
+  - name: Module 2 Port 6
+    type: lc
+    rear_port: Module 2 Port 6
+  - name: Module 2 Port 7
+    type: lc
+    rear_port: Module 2 Port 7
+  - name: Module 2 Port 8
+    type: lc
+    rear_port: Module 2 Port 8
+  - name: Module 3 Port 1
+    type: lc
+    rear_port: Module 3 Port 1
+  - name: Module 3 Port 2
+    type: lc
+    rear_port: Module 3 Port 2
+  - name: Module 3 Port 3
+    type: lc
+    rear_port: Module 3 Port 3
+  - name: Module 3 Port 4
+    type: lc
+    rear_port: Module 3 Port 4
+  - name: Module 3 Port 5
+    type: lc
+    rear_port: Module 3 Port 5
+  - name: Module 3 Port 6
+    type: lc
+    rear_port: Module 3 Port 6
+  - name: Module 3 Port 7
+    type: lc
+    rear_port: Module 3 Port 7
+  - name: Module 3 Port 8
+    type: lc
+    rear_port: Module 3 Port 8
+  - name: Module 4 Port 1
+    type: lc
+    rear_port: Module 4 Port 1
+  - name: Module 4 Port 2
+    type: lc
+    rear_port: Module 4 Port 2
+  - name: Module 4 Port 3
+    type: lc
+    rear_port: Module 4 Port 3
+  - name: Module 4 Port 4
+    type: lc
+    rear_port: Module 4 Port 4
+  - name: Module 4 Port 5
+    type: lc
+    rear_port: Module 4 Port 5
+  - name: Module 4 Port 6
+    type: lc
+    rear_port: Module 4 Port 6
+  - name: Module 4 Port 7
+    type: lc
+    rear_port: Module 4 Port 7
+  - name: Module 4 Port 8
+    type: lc
+    rear_port: Module 4 Port 8
+  - name: Module 5 Port 1
+    type: lc
+    rear_port: Module 5 Port 1
+  - name: Module 5 Port 2
+    type: lc
+    rear_port: Module 5 Port 2
+  - name: Module 5 Port 3
+    type: lc
+    rear_port: Module 5 Port 3
+  - name: Module 5 Port 4
+    type: lc
+    rear_port: Module 5 Port 4
+  - name: Module 5 Port 5
+    type: lc
+    rear_port: Module 5 Port 5
+  - name: Module 5 Port 6
+    type: lc
+    rear_port: Module 5 Port 6
+  - name: Module 5 Port 7
+    type: lc
+    rear_port: Module 5 Port 7
+  - name: Module 5 Port 8
+    type: lc
+    rear_port: Module 5 Port 8
+  - name: Module 6 Port 1
+    type: lc
+    rear_port: Module 6 Port 1
+  - name: Module 6 Port 2
+    type: lc
+    rear_port: Module 6 Port 2
+  - name: Module 6 Port 3
+    type: lc
+    rear_port: Module 6 Port 3
+  - name: Module 6 Port 4
+    type: lc
+    rear_port: Module 6 Port 4
+  - name: Module 6 Port 5
+    type: lc
+    rear_port: Module 6 Port 5
+  - name: Module 6 Port 6
+    type: lc
+    rear_port: Module 6 Port 6
+  - name: Module 6 Port 7
+    type: lc
+    rear_port: Module 6 Port 7
+  - name: Module 6 Port 8
+    type: lc
+    rear_port: Module 6 Port 8
+  - name: Module 7 Port 1
+    type: lc
+    rear_port: Module 7 Port 1
+  - name: Module 7 Port 2
+    type: lc
+    rear_port: Module 7 Port 2
+  - name: Module 7 Port 3
+    type: lc
+    rear_port: Module 7 Port 3
+  - name: Module 7 Port 4
+    type: lc
+    rear_port: Module 7 Port 4
+  - name: Module 7 Port 5
+    type: lc
+    rear_port: Module 7 Port 5
+  - name: Module 7 Port 6
+    type: lc
+    rear_port: Module 7 Port 6
+  - name: Module 7 Port 7
+    type: lc
+    rear_port: Module 7 Port 7
+  - name: Module 7 Port 8
+    type: lc
+    rear_port: Module 7 Port 8
+  - name: Module 8 Port 1
+    type: lc
+    rear_port: Module 8 Port 1
+  - name: Module 8 Port 2
+    type: lc
+    rear_port: Module 8 Port 2
+  - name: Module 8 Port 3
+    type: lc
+    rear_port: Module 8 Port 3
+  - name: Module 8 Port 4
+    type: lc
+    rear_port: Module 8 Port 4
+  - name: Module 8 Port 5
+    type: lc
+    rear_port: Module 8 Port 5
+  - name: Module 8 Port 6
+    type: lc
+    rear_port: Module 8 Port 6
+  - name: Module 8 Port 7
+    type: lc
+    rear_port: Module 8 Port 7
+  - name: Module 8 Port 8
+    type: lc
+    rear_port: Module 8 Port 8
+  - name: Module 9 Port 1
+    type: lc
+    rear_port: Module 9 Port 1
+  - name: Module 9 Port 2
+    type: lc
+    rear_port: Module 9 Port 2
+  - name: Module 9 Port 3
+    type: lc
+    rear_port: Module 9 Port 3
+  - name: Module 9 Port 4
+    type: lc
+    rear_port: Module 9 Port 4
+  - name: Module 9 Port 5
+    type: lc
+    rear_port: Module 9 Port 5
+  - name: Module 9 Port 6
+    type: lc
+    rear_port: Module 9 Port 6
+  - name: Module 9 Port 7
+    type: lc
+    rear_port: Module 9 Port 7
+  - name: Module 9 Port 8
+    type: lc
+    rear_port: Module 9 Port 8
+  - name: Module 10 Port 1
+    type: lc
+    rear_port: Module 10 Port 1
+  - name: Module 10 Port 2
+    type: lc
+    rear_port: Module 10 Port 2
+  - name: Module 10 Port 3
+    type: lc
+    rear_port: Module 10 Port 3
+  - name: Module 10 Port 4
+    type: lc
+    rear_port: Module 10 Port 4
+  - name: Module 10 Port 5
+    type: lc
+    rear_port: Module 10 Port 5
+  - name: Module 10 Port 6
+    type: lc
+    rear_port: Module 10 Port 6
+  - name: Module 10 Port 7
+    type: lc
+    rear_port: Module 10 Port 7
+  - name: Module 10 Port 8
+    type: lc
+    rear_port: Module 10 Port 8
+  - name: Module 11 Port 1
+    type: lc
+    rear_port: Module 11 Port 1
+  - name: Module 11 Port 2
+    type: lc
+    rear_port: Module 11 Port 2
+  - name: Module 11 Port 3
+    type: lc
+    rear_port: Module 11 Port 3
+  - name: Module 11 Port 4
+    type: lc
+    rear_port: Module 11 Port 4
+  - name: Module 11 Port 5
+    type: lc
+    rear_port: Module 11 Port 5
+  - name: Module 11 Port 6
+    type: lc
+    rear_port: Module 11 Port 6
+  - name: Module 11 Port 7
+    type: lc
+    rear_port: Module 11 Port 7
+  - name: Module 11 Port 8
+    type: lc
+    rear_port: Module 11 Port 8
+  - name: Module 12 Port 1
+    type: lc
+    rear_port: Module 12 Port 1
+  - name: Module 12 Port 2
+    type: lc
+    rear_port: Module 12 Port 2
+  - name: Module 12 Port 3
+    type: lc
+    rear_port: Module 12 Port 3
+  - name: Module 12 Port 4
+    type: lc
+    rear_port: Module 12 Port 4
+  - name: Module 12 Port 5
+    type: lc
+    rear_port: Module 12 Port 5
+  - name: Module 12 Port 6
+    type: lc
+    rear_port: Module 12 Port 6
+  - name: Module 12 Port 7
+    type: lc
+    rear_port: Module 12 Port 7
+  - name: Module 12 Port 8
+    type: lc
+    rear_port: Module 12 Port 8
+
+rear-ports:
+  - name: Module 1 Port 1
+    type: lc
+  - name: Module 1 Port 2
+    type: lc
+  - name: Module 1 Port 3
+    type: lc
+  - name: Module 1 Port 4
+    type: lc
+  - name: Module 1 Port 5
+    type: lc
+  - name: Module 1 Port 6
+    type: lc
+  - name: Module 1 Port 7
+    type: lc
+  - name: Module 1 Port 8
+    type: lc
+  - name: Module 2 Port 1
+    type: lc
+  - name: Module 2 Port 2
+    type: lc
+  - name: Module 2 Port 3
+    type: lc
+  - name: Module 2 Port 4
+    type: lc
+  - name: Module 2 Port 5
+    type: lc
+  - name: Module 2 Port 6
+    type: lc
+  - name: Module 2 Port 7
+    type: lc
+  - name: Module 2 Port 8
+    type: lc
+  - name: Module 3 Port 1
+    type: lc
+  - name: Module 3 Port 2
+    type: lc
+  - name: Module 3 Port 3
+    type: lc
+  - name: Module 3 Port 4
+    type: lc
+  - name: Module 3 Port 5
+    type: lc
+  - name: Module 3 Port 6
+    type: lc
+  - name: Module 3 Port 7
+    type: lc
+  - name: Module 3 Port 8
+    type: lc
+  - name: Module 4 Port 1
+    type: lc
+  - name: Module 4 Port 2
+    type: lc
+  - name: Module 4 Port 3
+    type: lc
+  - name: Module 4 Port 4
+    type: lc
+  - name: Module 4 Port 5
+    type: lc
+  - name: Module 4 Port 6
+    type: lc
+  - name: Module 4 Port 7
+    type: lc
+  - name: Module 4 Port 8
+    type: lc
+  - name: Module 5 Port 1
+    type: lc
+  - name: Module 5 Port 2
+    type: lc
+  - name: Module 5 Port 3
+    type: lc
+  - name: Module 5 Port 4
+    type: lc
+  - name: Module 5 Port 5
+    type: lc
+  - name: Module 5 Port 6
+    type: lc
+  - name: Module 5 Port 7
+    type: lc
+  - name: Module 5 Port 8
+    type: lc
+  - name: Module 6 Port 1
+    type: lc
+  - name: Module 6 Port 2
+    type: lc
+  - name: Module 6 Port 3
+    type: lc
+  - name: Module 6 Port 4
+    type: lc
+  - name: Module 6 Port 5
+    type: lc
+  - name: Module 6 Port 6
+    type: lc
+  - name: Module 6 Port 7
+    type: lc
+  - name: Module 6 Port 8
+    type: lc
+  - name: Module 7 Port 1
+    type: lc
+  - name: Module 7 Port 2
+    type: lc
+  - name: Module 7 Port 3
+    type: lc
+  - name: Module 7 Port 4
+    type: lc
+  - name: Module 7 Port 5
+    type: lc
+  - name: Module 7 Port 6
+    type: lc
+  - name: Module 7 Port 7
+    type: lc
+  - name: Module 7 Port 8
+    type: lc
+  - name: Module 8 Port 1
+    type: lc
+  - name: Module 8 Port 2
+    type: lc
+  - name: Module 8 Port 3
+    type: lc
+  - name: Module 8 Port 4
+    type: lc
+  - name: Module 8 Port 5
+    type: lc
+  - name: Module 8 Port 6
+    type: lc
+  - name: Module 8 Port 7
+    type: lc
+  - name: Module 8 Port 8
+    type: lc
+  - name: Module 9 Port 1
+    type: lc
+  - name: Module 9 Port 2
+    type: lc
+  - name: Module 9 Port 3
+    type: lc
+  - name: Module 9 Port 4
+    type: lc
+  - name: Module 9 Port 5
+    type: lc
+  - name: Module 9 Port 6
+    type: lc
+  - name: Module 9 Port 7
+    type: lc
+  - name: Module 9 Port 8
+    type: lc
+  - name: Module 10 Port 1
+    type: lc
+  - name: Module 10 Port 2
+    type: lc
+  - name: Module 10 Port 3
+    type: lc
+  - name: Module 10 Port 4
+    type: lc
+  - name: Module 10 Port 5
+    type: lc
+  - name: Module 10 Port 6
+    type: lc
+  - name: Module 10 Port 7
+    type: lc
+  - name: Module 10 Port 8
+    type: lc
+  - name: Module 11 Port 1
+    type: lc
+  - name: Module 11 Port 2
+    type: lc
+  - name: Module 11 Port 3
+    type: lc
+  - name: Module 11 Port 4
+    type: lc
+  - name: Module 11 Port 5
+    type: lc
+  - name: Module 11 Port 6
+    type: lc
+  - name: Module 11 Port 7
+    type: lc
+  - name: Module 11 Port 8
+    type: lc
+  - name: Module 12 Port 1
+    type: lc
+  - name: Module 12 Port 2
+    type: lc
+  - name: Module 12 Port 3
+    type: lc
+  - name: Module 12 Port 4
+    type: lc
+  - name: Module 12 Port 5
+    type: lc
+  - name: Module 12 Port 6
+    type: lc
+  - name: Module 12 Port 7
+    type: lc
+  - name: Module 12 Port 8
+    type: lc
